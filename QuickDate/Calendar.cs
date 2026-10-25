@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Testing collab w/Github. This comment added in original (not the cloned) solution
+
+using System;
 using System.Runtime.CompilerServices;
 
 [assembly: InternalsVisibleTo("QuickTest")]
